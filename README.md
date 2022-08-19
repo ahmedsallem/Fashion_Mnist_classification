@@ -13,7 +13,7 @@ use “Accuracy” as the performance measure.
 
 ## Data description
 
-The Fashion-MNIST dataset consists of images of that originate from
+The Fashion-MNIST dataset " https://www.kaggle.com/zalando-research/fashionmnist " consists of images of that originate from
 Zalando’s image directory. Zalando is a European e-commerce company
 founded in 2008.
 The researchers in Zalando have created the Fashion-MNIST dataset that
